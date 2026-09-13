@@ -1,0 +1,6 @@
+{
+  "name": "LostFindUs 약관 및 동의서 뷰어",
+  "description": "주식회사 아이티에스뱅크 LostFindUs 1차 런칭 및 2차 고도화 서비스 이용약관, 위치정보 동의서 통합 뷰어 및 비교 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
